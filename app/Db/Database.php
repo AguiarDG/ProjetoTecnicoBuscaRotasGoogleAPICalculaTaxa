@@ -9,7 +9,7 @@ class DataBase {
 
   const host = 'localhost';
 
-  const dbname = 'test_gaudium';
+  const dbname = 'project_routes_googleapi';
 
   const username = 'admin';
 

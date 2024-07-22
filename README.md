@@ -1,2 +1,2 @@
-# avaliacaotecnica-gaudium
-Projeto para Avaliação Técnica para a empresa Gaudium
+# avaliacaotecnica
+Projeto para Avaliação Técnica

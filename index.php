@@ -56,11 +56,11 @@ if(isset($calcular) && $calcular == 1) {
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="custom-style.css">
-  <title>Avaliação Tecnica Gaudium</title>
+  <title>Avaliação Tecnica</title>
 </head>
 <body>
   <div class="container mb-5">
-      <h1>Avaliação Tecnica Gaudium</h1>
+      <h1>Avaliação Tecnica</h1>
 
       <div class="container">
         <div class="form-calculo">
